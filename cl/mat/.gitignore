@@ -1,0 +1,4 @@
+# Some rules to ignore certain files
+
+# Ignore the metadata files created by matlab
+*.asv

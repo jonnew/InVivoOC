@@ -1,0 +1,7 @@
+# Some rules to ignore certain files
+
+# Ignore all images/modules/execultables/binaries etc.
+*.bin
+*.o
+*.exe
+
